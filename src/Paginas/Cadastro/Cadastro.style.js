@@ -12,7 +12,6 @@ export const Header = styled.h1`
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: start;
   height: 140px;
   width: 208px;
