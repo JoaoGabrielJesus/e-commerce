@@ -1,17 +1,14 @@
 import styled from 'styled-components';
 
-export const Button = styled.div`
-  margin-left: auto;
-  width: 80px;
-  height: 27px;
-  font-size: 20px;
-  background-color: #3ca5f9;
-  font-weight: bold;
-  border-radius: 10px;
-  padding: 5px;
-  border: 1px solid black;
-
-  `
+export const Btn = styled.div`
+font-size: 15px;
+border-radius: 15px;
+border: 1px solid gray;
+width: 60px;
+padding-left: 5px;
+color: blue;
+background-color: lightblue;
+`
 
 export const Header = styled.div`
 text-align: center;
